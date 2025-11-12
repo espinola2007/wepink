@@ -4,31 +4,21 @@ O presente projeto tem como objetivo o desenvolvimento de um site de vendas onli
 
 Escopo do Projeto:
 
-O projeto WePink consiste na criação de um site desenvolvido em HTML, CSS e PHP, com banco de dados MySQL, que permitirá a gestão de produtos, cadastro de usuários, login, carrinho de compras e simulação de pedidos.
-O escopo contempla:
-Página inicial com apresentação da marca e produtos em destaque,
-Sistema de cadastro e login de usuários,
-Página de listagem de produtos e busca por categorias,
-Simular um carrinho de compras e sistema de pedidos,
-CRUD,
+O site WePink tem como objetivo apresentar os produtos da marca, permitindo ao usuário navegar por categorias, visualizar detalhes de produtos e adicionar itens ao carrinho.
+Como não haverá banco de dados, as informações de produtos e usuários serão armazenadas em arquivos JSON.
+Funcionalidades previstas:
+Página inicial;
+Catálogo de produtos;
+Página de detalhes do produto;
+Carrinho de compras simples (armazenado em sessão);
+Página “Sobre Nós” e “Contato”;
 Layout.
 
-Definições do Projeto:
-
-Linguagens: HTML, CSS, PHP.
-Banco de dados: MySQL.
-Servidor local: XAMPP.
-Ferramentas de design: Canva.
-Metodologia: Desenvolvimento incremental, com entregas parciais (Front-End, Back-End, Integração).
-Controle de versão: Git/GitHub.
-
-Descrição do Sistema:
-
-O sistema WePink será um site de e-commerce que permitirá:
-Usuários: realizar cadastro, login e navegação entre produtos; adicionar itens ao carrinho e finalizar pedidos simulados.
-Administradores: cadastrar, editar, excluir e visualizar produtos por meio de um painel administrativo seguro.
-Produtos: organizados por categorias, com informações como nome, preço.
-Design: interface.
+Tecnologias utilizadas:
+Front-end: HTML, CSS
+Back-end: PHP
+Dados: JSON
+Outras ferramentas: VS Code, GitHub, navegador para testes
 
 Integrantes do grupo:
 
@@ -37,3 +27,15 @@ Bruna Ferreira;
 Hellen Leite;
 Vitória Myrella;
 Maria Vitória.
+
+Introdução
+O projeto tem como finalidade o desenvolvimento de um site para a marca WePink, utilizando as linguagens PHP, HTML e CSS, e o formato JSON como meio de armazenamento de dados.
+
+Descrição do Sistema
+O sistema consiste em um site, dividido em seções principais:
+Home: Apresenta a marca, promoções e produtos em destaque;
+Produtos: Lista de produtos;
+Detalhes do Produto: Mostra informações do produto;
+Carrinho: Mostra os produtos adicionados e o total da compra;
+Admin: Página restrita que permite simular o cadastro e edição de produtos;
+Contato e Sobre Nós: Informações da empresa.
