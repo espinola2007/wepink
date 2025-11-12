@@ -19,7 +19,7 @@ Linguagens: HTML, CSS, PHP.
 Banco de dados: MySQL.
 Servidor local: XAMPP.
 Ferramentas de design: Canva.
-Metodologia: Desenvolvimento incremental, com entregas parciais (Front-End → Back-End → Integração).
+Metodologia: Desenvolvimento incremental, com entregas parciais (Front-End, Back-End, Integração).
 Controle de versão: Git/GitHub.
 
 Descrição do Sistema:
