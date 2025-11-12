@@ -6,11 +6,11 @@ Escopo do Projeto:
 
 O projeto WePink consiste na criação de um site desenvolvido em HTML, CSS e PHP, com banco de dados MySQL, que permitirá a gestão de produtos, cadastro de usuários, login, carrinho de compras e simulação de pedidos.
 O escopo contempla:
-Página inicial com apresentação da marca e produtos em destaque.
-Sistema de cadastro e login de usuários.
-Página de listagem de produtos e busca por categorias.
-Simular um carrinho de compras e sistema de pedidos.
-CRUD.
+Página inicial com apresentação da marca e produtos em destaque,
+Sistema de cadastro e login de usuários,
+Página de listagem de produtos e busca por categorias,
+Simular um carrinho de compras e sistema de pedidos,
+CRUD,
 Layout.
 
 Definições do Projeto:
